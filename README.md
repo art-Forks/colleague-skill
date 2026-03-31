@@ -11,25 +11,13 @@
 
 <br>
 
-<table border="0">
-<tr>
-<td valign="middle">
-
 你的同事跳槽了，留下大量的文档没人维护？<br>
 你的实习生离职了，只留下空荡的工位和烂尾的项目？<br>
 你的导师毕业了，带走了所有的经验和上下文？<br>
 你的搭档转岗了，熟悉的默契一夜之间归零？<br>
 你的前任交接了，三页文档想概括三年的积累？<br>
-<br>
-<strong>将冰冷的离别化为温暖的 Skill，欢迎加入赛博永生！</strong>
 
-</td>
-<td>
-<img src="docs/yaya_v2.png" height="160px"/>
-<br/><sub><em>——《流浪地球2》</em></sub>
-</td>
-</tr>
-</table>
+**将冰冷的离别化为温暖的 Skill，欢迎加入赛博永生！**
 
 <br>
 
